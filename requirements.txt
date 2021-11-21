@@ -1,0 +1,13 @@
+Webpack:
+    - Babel
+    - Scss
+    - Eslint
+    - Modes:
+        - Dev:
+            - Dev Server 
+            - Source Maps 
+            - Eslint
+            - Not minified JS & CSS
+        - Prod:
+            - Minified Code
+Git
